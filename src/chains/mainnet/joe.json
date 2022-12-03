@@ -1,0 +1,19 @@
+{
+    "chain_name": "joe",
+    "coingecko": "",
+    "api": ["https://joe-api.polkachu.com","https://joe.api.chandrastation.com"],
+    "rpc": ["https://joe-rpc.polkachu.com", "https://joe.rpc.chandrastation.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.6",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "joe",
+    "logo": "/logos/joe.png",
+    "assets": [{
+        "base": "ujoe",
+        "symbol": "JOE",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/joe.png"
+    }]
+}
