@@ -25,10 +25,10 @@ cp -r ./dist/* <ROOT_OF_WEB_SERVER>
 enable = true
 
 # Swagger defines if swagger documentation should automatically be registered.
-swagger = false
+swagger = true
 
 # Address defines the API server to listen on.
-address = "tcp://0.0.0.0:1317"
+address = "https://joe-lcd.wasm.host"
 
 # MaxOpenConnections defines the number of maximum open connections.
 max-open-connections = 1000
